@@ -1,3 +1,6 @@
+session-store.db
+lib/users.sql
+
 # Logs
 logs
 *.log
